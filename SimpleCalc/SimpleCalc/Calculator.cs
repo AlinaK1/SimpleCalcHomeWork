@@ -39,7 +39,8 @@ namespace SimpleCalc
 		//Create a method to subtract the two numbers
 		public double Subtract()
 		{
-			throw new NotImplementedException();
+			//throw new NotImplementedException();
+			return Number1 - Number2;
 		}
 
 		//Create a method to multiply the two numbers
