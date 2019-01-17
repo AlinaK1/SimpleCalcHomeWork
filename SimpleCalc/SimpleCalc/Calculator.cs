@@ -52,7 +52,7 @@ namespace SimpleCalc
 		//Create a method to divide the two numbers
 		public double Divide()
 		{
-			throw new NotImplementedException();
+			return Number1/Number2;
 		}
 	}
 }
